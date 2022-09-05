@@ -1,0 +1,111 @@
+{
+    "id": "625ef9a6a3eba34f42ec406a",
+    "aaId": "625ef9a43b1ee3006b199ae1",
+    "activityBlocked": false,
+    "avatarHash": "5dc79f207b54af4ab10943341d70f424",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/625ef9a6a3eba34f42ec406a/5dc79f207b54af4ab10943341d70f424",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "Norhane Mahrouss Ahmed",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "NA",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/eng_norhane_mahrouss",
+    "username": "eng_norhane_mahrouss",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "eng_norhane_mahrouss@yahoo.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "b3ca3a7af25862192fae7eccc7e24e97",
+    "idBoards": [
+        "625efe6e8355262f50712173"
+    ],
+    "idOrganizations": [
+        "625efa3e220edd55975da09a"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-04-19T18:06:02.566Z"
+    },
+    "messagesDismissed": [
+        {
+            "_id": "6260653b62c3f47e9252dd97",
+            "name": "ad-logged-in-public-board-625efe6e8355262f50712173",
+            "count": 1,
+            "lastDismissed": "2022-04-20T19:55:39.033Z"
+        }
+    ],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "close-menu-of-first-board",
+        "views-switcher-callout",
+        "timeline-views-switcher-new-pill",
+        "calendar-view-views-switcher-new-pill",
+        "dashboard-views-switcher-new-pill"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "25",
+    "boards": [
+        {
+            "id": "625efe6e8355262f50712173",
+            "name": "Healthcare app",
+            "closed": false,
+            "idOrganization": "625efa3e220edd55975da09a",
+            "pinned": false
+        }
+    ]
+}
